@@ -14,7 +14,7 @@ The built-in alarm at 80% is inadequate. There is also no API
 
 ## Solution and this project
 
-Owlet app is run in an emulator 
+Owlet app is run in an emulator is scraped for data via OCR and put into a dashboard for visualizations and alerts
 
 ## How to use
 
